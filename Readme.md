@@ -1,4 +1,4 @@
-# Django & Django REST framework test project.
+# Django & Django REST framework project.
 The test project won't be used in any real environment.
 
 
